@@ -1,0 +1,8 @@
+First line: T (number of test cases) For each test case
+First line: Two space-separated integers N and K
+Next N lines: N space-separated characters (denoting each cell in the grid)
+For each test case, print the maximum number of thieves that can be caught in the grid.
+
+1 <= T <= 10
+1 <= N <= 1000
+1 <= K <= NxN
